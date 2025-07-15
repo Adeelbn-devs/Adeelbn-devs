@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hello! I'm Adeel B N
 
-<!--
-**Adeelbn-devs/Adeelbn-devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I’m a passionate Full Stack Developer in training, currently focused on building modern, scalable web applications using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
 
-Here are some ideas to get you started:
+🎓 I’m pursuing B.E. in Computer Science from MVJ College of Engineering, Bangalore, and have completed a Diploma from DACG Government Polytechnic, Chikkamagaluru. Alongside, I’m enhancing my skills through professional courses at **GeeksforGeeks Nation Skill Up** and **Digitea**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Tools
+
+- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+- **Programming Languages:** JavaScript, Python (Basics)  
+- **Version Control:** Git, GitHub  
+- **Tools & Platforms:** VS Code, Postman, Netlify, Render
+
+---
+
+## 📈 Learning Goals
+
+- Advanced React Development  
+- API Development & Integration  
+- Backend Architecture with Node.js  
+- Building Full-Stack Projects  
+- Deployment & Optimization
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/adeel-b-n-853334369)
+- [GitHub](https://github.com/Adeelbn-devs)
+
+---
+
+> “I believe in continuous learning, practical building, and contributing to real-world solutions.”
