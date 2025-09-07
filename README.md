@@ -31,6 +31,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/adeel-b-n-853334369)
 - [GitHub](https://github.com/Adeelbn-devs)
+- [GitLab](https://gitlab.com/adeelbn.dev)
 
 ---
 
